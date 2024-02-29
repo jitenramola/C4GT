@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Shruti Agarwal</td>
+    <td>jitenderramola</td>
   </tr>
   <tr>
     <td>GitHub</td>
@@ -907,5 +907,24 @@
   <tr>
       <td>College</td>
       <td>SRCC</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>jitenderramola</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Shruti3004</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/shruti-ag</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>JSS Academy of Technical Education, Noida</td>
   </tr>
 </table>
